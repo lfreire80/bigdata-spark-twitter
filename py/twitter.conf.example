@@ -1,0 +1,4 @@
+api_key=<twitter api key>
+api_secret=<twitter api secret>
+access_token=<twitter access token>
+access_token_secret=<twitter access token secret>

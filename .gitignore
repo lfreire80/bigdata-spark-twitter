@@ -1,2 +1,4 @@
 *.class
 *.log
+tweets*.json
+py/twitter.conf
